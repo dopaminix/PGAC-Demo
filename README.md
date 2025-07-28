@@ -46,8 +46,23 @@ The Resources page presents important links and documents for PG students in a m
 
 ![Resources Page Example](pgac-resources-demo.png)
 
-## Usage
-Open any of the HTML files in your browser. No build step required.
+## How to Use This Project
+
+### 1. Clone the Repository
+
+```
+git clone https://github.com/dopaminix/PGAC-Demo.git
+```
+
+### 2. Open the Project
+
+- Navigate to the project folder:
+  ```
+  cd PGAC-Demo
+  ```
+- Open any of the HTML files (e.g., `index.html`, `about.html`, etc.) in your web browser by double-clicking the file or using your editor's Live Preview feature.
+
+No build step or server is required—everything is fully static and works offline.
 
 ## Author
 © 2025 PGAC, IIT Bombay • Website by Aasim
